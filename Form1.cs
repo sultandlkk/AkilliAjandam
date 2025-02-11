@@ -19,7 +19,7 @@ namespace AkilliAjandam1
     public partial class Form1 : Form
     {
         
-        private static readonly string apiKey = "AIzaSyCKTUc2LdFpZQYRBFJZndrcAvq-ZuZCIEs"; // Buraya kendi API anahtarını gir
+        private static readonly string apiKey = ""; // Buraya kendi API anahtarını gir
 
         public Form1()
         {
@@ -192,7 +192,7 @@ namespace AkilliAjandam1
                              "Bana boş zamanlarımda yapabileceğim uygun etkinlik önerileri sunar mısın?";
 
             // Google Cloud API Key (API anahtarını buraya girin)
-            string apiKey = "AIzaSyCKTUc2LdFpZQYRBFJZndrcAvq-ZuZCIEs";
+            string apiKey = "";
 
             // API URL'si (Örnek, kullanılan servise göre farklılık gösterebilir)
             string apiUrl = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=GEMINI_API_KEY" + apiKey;
