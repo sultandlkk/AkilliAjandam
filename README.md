@@ -13,8 +13,7 @@ C#: Uygulamanın ana yazılım dili.
 OpenCV: Görüntü işleme için kullanılan kütüphane (Ders programı fotoğrafı analizi için).
 PDF Generator: Etkinlik ve çalışma planlarının PDF formatında oluşturulmasını sağlar.
 Kurulum
-Depoyu Klonlayın:
-git clone https://github.com/sultandlkk/akilli-ajanda.git
+Depoyu Klonlayın:(https://github.com/sultandlkk/AkilliAjandam.git)
 Gerekli Bağımlılıkları Yükleyin: Visual Studio'da projeyi açtıktan sonra, gerekli tüm bağımlılıkların yüklendiğinden emin olun.
 
 Uygulamayı Başlatın: Visual Studio'da uygulamayı başlatın ve kullanıcı arayüzünü kullanarak ders programınızı fotoğraf olarak yükleyin.
